@@ -2,3 +2,5 @@ refactor css
     - borders
     - border radius
     - padding
+- add option to add new complex in the search bar
+- make svg icons #161616 instead of black
